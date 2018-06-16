@@ -1,6 +1,6 @@
 import telebot
 
-token = 'WhAt'
+TOKEN = 'WhAt'
 
 bot = telebot.TeleBot(TOKEN)
 
