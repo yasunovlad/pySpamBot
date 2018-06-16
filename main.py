@@ -2,7 +2,7 @@ import telebot
 
 token = 'WhAt'
 
-bot = telebot.TeleBot(token)
+bot = telebot.TeleBot(TOKEN)
 
 
 @bot.message_handler(commands=['start', 'send_ads'])
